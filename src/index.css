@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --breakpoint-small: 734px;
+  --breakpoint-nav: 834px;
+  --breakpoint-lg: 1068px;
+}
+
+/* css
+.myCarousel .swiper-pagination-bullet {
+  background: white;
+  opacity: 0.5;
+} */
+
+/* .myCarousel .swiper-pagination-bullet-active {
+  opacity: 1;
+} */
+
